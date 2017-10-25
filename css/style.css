@@ -90,6 +90,12 @@ input[type=submit]{
 	margin-right: 500px;
 	
 }
+#Button{
+	text-align: center;
+	display: block;
+	width: 150px;
+	margin:0 auto;
+}
 
 
 
