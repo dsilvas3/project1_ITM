@@ -58,6 +58,7 @@ img {
 }
 
 input[type=text], input[type=date] {
+     line-height: 24px; 
     width: 70%;
     padding: 8px 10px;
     margin: 5px 0;
