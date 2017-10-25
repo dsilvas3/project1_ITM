@@ -84,12 +84,10 @@ input[type=text], input[type=date] {
 }
 
 input[type=submit]{
-	display: inline-block;
-	float: right ;
-	text-align: center;
+	
 	background-color: #FF9B6E;
 	padding: 10px 50px;
-	margin-right: 500px;
+	
 	
 }
 #Button{
