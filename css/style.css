@@ -102,23 +102,34 @@ input[type=submit]{
 @media screen and (min-width: 400px) and (max-width: 800px {
 
 body {
-	background-color: #FFE4B5;
+	background-color: #95e5a1;
+	font-size: 1.1em;
 }
 
-
-.title {
-	font-size: 4em;
-}
 
 label {
-	font-size: 30px;
+	font-size: 1.1em;
 	width: 100%;
 }
 
 }
 
 
+@media screen and (min-width: 801px){
 
+body {
+	background-color: #b6f9c0;
+	font-size: 1.5em
+}
+
+
+
+label {
+	font-size: 1.5em;
+	width: 100%;
+}
+
+}
 
 
 
