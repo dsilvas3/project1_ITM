@@ -32,8 +32,8 @@ body {
 	line-height: 1em;
 	color: blue;
 	font-family:  "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, cursive;
-    background-color: #FFE4B5;
-    text-align:center;
+        background-color: #FFE4B5;
+        text-align:center;
 	border-style: dotted;
 }
 
@@ -103,13 +103,19 @@ input[type=submit]{
 
 body {
 	background-color: #95e5a1;
+	font-size: 80%;
 	
 }
 
 
 label {
+	font-size: 30px;
 	
 	
+}
+h1{
+	font-size: 35px ;
+
 }
 
 }
@@ -119,16 +125,21 @@ label {
 
 body {
 	background-color: #b6f9c0;
+	font-size:100%;
 	
 }
 
 
 
 label {
-	
+	font-size:40px;
 	
 }
 
+	
+h1{
+	font-size: 50px ;
+	}
 }
 
 
