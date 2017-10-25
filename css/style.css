@@ -100,11 +100,7 @@ input[type=submit]{
 	
 }
 
-#button{
-	text-align: center;
-	max-width: 150px;
-  	margin: 10px auto;
-}
+
 
 @media screen and (min-width: 400px) and (max-width: 800px) {
 
