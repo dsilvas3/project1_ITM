@@ -57,6 +57,22 @@ img {
    	 height: 3%;
 }
 
+label{
+	
+	display: inline-block;
+	text-align: right;
+	float: left;
+	width: 200px;
+	clear:left;
+	
+}
+input {
+	
+	display: inline-block;
+	float: left;
+}
+
+
 input[type=text], input[type=date] {
      line-height: 24px; 
     width: 70%;
